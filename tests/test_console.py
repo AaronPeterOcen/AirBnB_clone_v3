@@ -6,10 +6,8 @@ Contains the class TestConsoleDocs
 import console
 import inspect
 import pep8
-from datetime import datetime
 import unittest
 
-# import json
 HBNBCommand = console.HBNBCommand
 
 
